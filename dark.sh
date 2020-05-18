@@ -1,4 +1,3 @@
-clear
 cd /sdcard
 rm -rf Android
 rm -rf Download
